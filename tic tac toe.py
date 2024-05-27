@@ -10,3 +10,7 @@ robot.get_frame()
 robot.closeWebRTC()
 
 #robot.move_xyz(cx+275,cy+300,0,[30,0,40])
+
+
+#COMENTARIO DE PRUEBA 1
+#COMENTARIO DE PRUEBA 2
